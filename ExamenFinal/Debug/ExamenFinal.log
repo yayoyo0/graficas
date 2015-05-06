@@ -1,0 +1,83 @@
+﻿Compilación iniciada a las 04/05/2015 04:29:54 p. m..
+     1>Proyecto "C:\Users\LuisEduardo\documents\visual studio 2012\Projects\Computer Graphics\ExamenFinal\ExamenFinal.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\LuisEduardo\Documents\Visual Studio 2012\Projects\glm" /I"C:\Users\LuisEduardo\Documents\Visual Studio 2012\Projects\Computer Graphics\Hello World OpenGL GLUT\freeglut\include" /I"C:\Users\LuisEduardo\Documents\Visual Studio 2012\Projects\Computer Graphics\Hello World OpenGL GLUT\glew-1.11.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt final_driver.cpp
+         final_driver.cpp
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(58): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(67): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(110): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(115): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(120): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(132): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(133): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(134): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(138): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(142): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(146): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(151): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(156): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(157): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(161): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(162): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(185): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(187): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(188): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(189): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(190): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(200): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(202): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(203): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(204): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(205): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(214): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(216): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(217): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(218): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(219): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(228): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(230): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(231): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(232): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(233): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(242): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(244): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(245): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(246): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(247): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(256): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(258): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(259): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(260): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(261): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(271): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(272): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(273): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(274): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(275): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(313): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(314): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(319): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(324): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(325): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(393): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(397): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(401): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\luiseduardo\documents\visual studio 2012\projects\computer graphics\examenfinal\final_driver.cpp(405): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LuisEduardo\documents\visual studio 2012\Projects\Computer Graphics\Debug\ExamenFinal.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\LuisEduardo\Documents\Visual Studio 2012\Projects\\" /LIBPATH:"C:\Users\LuisEduardo\Documents\Visual Studio 2012\Projects\Computer Graphics\Hello World OpenGL GLUT\glew-1.11.0\lib\Release\Win32" /LIBPATH:"C:\Users\LuisEduardo\Documents\Visual Studio 2012\Projects\Computer Graphics\Hello World OpenGL GLUT\freeglut\lib" glew32.lib freeglut.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LuisEduardo\documents\visual studio 2012\Projects\Computer Graphics\Debug\ExamenFinal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LuisEduardo\documents\visual studio 2012\Projects\Computer Graphics\Debug\ExamenFinal.lib" /MACHINE:X86 Debug\box.obj
+         Debug\Cilinder.obj
+         Debug\Cone.obj
+         Debug\Dodecahedron.obj
+         Debug\final_driver.obj
+         Debug\Octahedron.obj
+         Debug\Root.obj
+         Debug\scene_graph.obj
+         Debug\scene_node.obj
+         Debug\sphere.obj
+         Debug\Torus.obj
+         ExamenFinal.vcxproj -> C:\Users\LuisEduardo\documents\visual studio 2012\Projects\Computer Graphics\Debug\ExamenFinal.exe
+     1>Compilación del proyecto terminada "C:\Users\LuisEduardo\documents\visual studio 2012\Projects\Computer Graphics\ExamenFinal\ExamenFinal.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.02
